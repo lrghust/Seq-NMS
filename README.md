@@ -1,7 +1,7 @@
-# Inplementation of Seq-NMS
+# Implementation of Seq-NMS
 > Only used for self-learning
 
-I inplement the method Seq-NMS mentioned in paper: SEQ-NMS FOR VIDEO OBJECT DETECTION based on the Faster-RCNN.
+I implement the method Seq-NMS mentioned in paper: SEQ-NMS FOR VIDEO OBJECT DETECTION based on the Faster-RCNN.
 
 As for the detection in a single frame, I use the demo program and pre-trained network given by Faster-RCNN to run the detection in each frame in a video.
 
